@@ -1,0 +1,18 @@
+baseURL = "https://blog.nkagami.me"
+languageCode = "en-us"
+title = "Kagami Notes"
+theme = "m10c"
+
+[params]
+author = "Natsu Kagami"
+description = "osu! player, (programming) language enthusiast. I tryhard everything."
+avatar = "https://avatars2.githubusercontent.com/u/9061737"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/natsukagami"
+
+[[params.social]]
+name = "mastodon"
+url = "https://mstdn.jp/natsukagami"
+
