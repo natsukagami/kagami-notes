@@ -1,7 +1,10 @@
 ---
 title: Moving my DigitalOcean node to Nix (Chapter 1...)
-date: 2021-10-31T22:00:00
+date: 2020-10-31T03:00:00-05:00
 draft: false
+tags:
+- nix
+- hosting
 ---
 
 Lately I have been switching my primary Linux PC from Arch Linux to [NixOS](https://nixos.org), a Linux distribution with a functional twist: completely stateless configuration. It's been quite a pleasant ride, and Nix the expression language, though a bit lacking in friendly documentation, is actually not that hard to get used to (... but the `nixpkgs.lib` functions are **not**!)
