@@ -1,6 +1,6 @@
 ---
 title: Moving my DigitalOcean node to Nix (Chapter 1...)
-date: 2020-10-31T03:00:00-05:00
+date: 2021-10-31T03:00:00-05:00
 draft: false
 tags:
 - nix
